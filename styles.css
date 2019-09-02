@@ -1,0 +1,40 @@
+
+body {
+  background-color: #E0E0E0;
+}
+
+h2 {
+  font-size: 45px;
+  color: #0DC4C4;
+  background: white;
+  padding: 10px;
+  min-height: 100px;
+}
+h3 {
+  font-size: 40px;
+  color: #0DC4C4;
+  background: white;
+  padding: 10px;
+  min-height: 70px;
+}
+p {
+  font-size: 18px;
+  color: grey;
+  background: white
+}
+small{
+background-color: #E0E0E0;
+color:  #E0E0E0
+}
+p {
+  font-size: 18px;
+  color: grey;
+  background: white
+}
+.navbar {
+  padding: 10px;
+  background: #5191fd;
+  float: right;
+}
+
+
